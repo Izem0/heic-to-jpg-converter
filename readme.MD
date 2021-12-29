@@ -8,7 +8,7 @@ This programs uses ImageMagick & the Wand library to convert HEIC images (coming
 ## Installation
 1. You first need to install **ImageMagick** on your machine. Depending on your OS, the installation may not be the same.
 Follow the installation instructions here: https://docs.wand-py.org/en/0.6.7/guide/install.html#
-2. Install the Wand librairy ``pip install Wand``
+2. Install the Wand library ``pip install Wand``
 
 ## Usage
 1. Put the .heic files to be converted into the ``source_folder``. For example "G:\My Drive\heic_files"
